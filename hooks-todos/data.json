@@ -1,0 +1,24 @@
+{
+  "todos": [
+    {
+      "id": "2049d1f7-cca8-4c5d-b5b6-de6e4f3da56a",
+      "text": "Eat dinner",
+      "complete": false
+    },
+    {
+      "id": "0d8524b5-7cae-4619-bd62-4c959be8b736",
+      "text": "watch movie",
+      "complete": false
+    },
+    {
+      "id": "df747c7a-4c64-4261-9d59-19cd10b30883",
+      "text": "play games",
+      "complete": false
+    },
+    {
+      "id": "49d5d92e-7720-499e-ac49-40f92abddaaa",
+      "text": "finish course",
+      "complete": false
+    }
+  ]
+}
